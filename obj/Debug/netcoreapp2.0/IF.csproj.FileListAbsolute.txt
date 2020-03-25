@@ -1,0 +1,10 @@
+C:\Users\C#Developer\IF\bin\Debug\netcoreapp2.0\IF.deps.json
+C:\Users\C#Developer\IF\bin\Debug\netcoreapp2.0\IF.runtimeconfig.json
+C:\Users\C#Developer\IF\bin\Debug\netcoreapp2.0\IF.runtimeconfig.dev.json
+C:\Users\C#Developer\IF\bin\Debug\netcoreapp2.0\IF.dll
+C:\Users\C#Developer\IF\bin\Debug\netcoreapp2.0\IF.pdb
+C:\Users\C#Developer\IF\obj\Debug\netcoreapp2.0\IF.csproj.CoreCompileInputs.cache
+C:\Users\C#Developer\IF\obj\Debug\netcoreapp2.0\IF.AssemblyInfoInputs.cache
+C:\Users\C#Developer\IF\obj\Debug\netcoreapp2.0\IF.AssemblyInfo.cs
+C:\Users\C#Developer\IF\obj\Debug\netcoreapp2.0\IF.dll
+C:\Users\C#Developer\IF\obj\Debug\netcoreapp2.0\IF.pdb
